@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main{
-int sd s
-sdsjs0d
-ss
+int main ;
+{ printf("hello world");
+return 0;
+}
